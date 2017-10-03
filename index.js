@@ -3,6 +3,6 @@ var name = "Susan"
 var height = '39'
 var message = ` ${name} is ${height} inches tall`
 
-console.log(message).inner
+console.log(message).innerHTML
 
 module.exports = {name, height, message}
